@@ -98,6 +98,13 @@
     "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/RevisAdmin.lua\"))()",
     "imgurl": "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/RevizAdmin.png"
   },
+    {
+    "title": "Revis Admin",
+    "credits": "by a bunch of devs",
+    "desc": "An old but simple and lightweigh admin command script.",
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/RevisAdmin.lua\"))()",
+    "imgurl": "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/RevizAdmin.png"
+  },
   {
     "title": "Talk in emoji",
     "credits": "by Edge",
